@@ -11,8 +11,10 @@
   "nerdcommenter": { "branch": "master", "commit": "da948e160d9f54c2967c7927b9c74c5a68c8dc49" },
   "nvim-spectre": { "branch": "master", "commit": "07201e6bd3b43a193d891cec844dfd1f23e775d1" },
   "nvim-tree.lua": { "branch": "master", "commit": "80cfeadf179d5cba76f0f502c71dbcff1b515cd8" },
+  "nvim-treesitter": { "branch": "master", "commit": "2241f81d74a3de7f8ae1517bbfc24c319218d9a0" },
   "nvim-web-devicons": { "branch": "master", "commit": "3fafeea5f339223e888fd15eb4032260849cb038" },
   "plenary.nvim": { "branch": "master", "commit": "50012918b2fc8357b87cff2a7f7f0446e47da174" },
+  "supertab": { "branch": "master", "commit": "f0093ae12a9115498f887199809a6114659fc858" },
   "theme-vim": { "branch": "main", "commit": "2d7beee9a08560ee9574002f7b7b719bad53b0e5" },
   "which-key.nvim": { "branch": "main", "commit": "4433e5ec9a507e5097571ed55c02ea9658fb268a" }
 }

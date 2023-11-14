@@ -11,6 +11,12 @@ return {
 					}
 				}
 			})
+
+			vim.filetype.add({
+				extension = {
+					mdx = "mdx"
+				}
+			})
 		end,
 	}
 }

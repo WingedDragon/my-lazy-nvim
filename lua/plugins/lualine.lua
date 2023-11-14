@@ -1,7 +1,7 @@
 return {
 	{
 		"nvim-lualine/lualine.nvim",
-		requires = {
+		dependencies = {
 			"nvim-tree/nvim-web-devicons",
 			opt = true
 		}

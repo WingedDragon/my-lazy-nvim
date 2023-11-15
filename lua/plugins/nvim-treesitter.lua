@@ -50,6 +50,10 @@ return {
 				enable = true
 			}
 
+            for _, config in pairs(require("nvim-treesitter.parsers").get_parser_configs()) do
+                config.install_info.url = config.install_info.url:gsub("https://mirror.ghproxy.com/https://github.com/", "something else")                    
+            end
+
 			require("nvim-treesitter.configs").setup({
 				ensure_installed = ensure_installed,
 				highlight = highlight,
